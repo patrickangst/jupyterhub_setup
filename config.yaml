@@ -10,5 +10,5 @@
 #
 
 helm-release-name:"patang"
-k8s-namespace:"patang"
+k8s-namespace:"default"
 chart-version:"0.8-ccc1e6b"
